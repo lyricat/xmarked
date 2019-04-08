@@ -1,8 +1,8 @@
 {
-  "name": "marked",
-  "description": "A markdown parser built for speed",
-  "author": "Christopher Jeffrey",
-  "version": "0.6.2",
+  "name": "@lyricat/xmarked",
+  "description": "A markdown parser forked from marked.js",
+  "author": "Lyric Wei",
+  "version": "1.0.0",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
@@ -12,10 +12,9 @@
     "man/",
     "marked.min.js"
   ],
-  "repository": "git://github.com/markedjs/marked.git",
-  "homepage": "https://marked.js.org",
+  "repository": "git://github.com/lyricat/xmarked.git",
   "bugs": {
-    "url": "http://github.com/markedjs/marked/issues"
+    "url": "http://github.com/lyricat/xmarked/issues"
   },
   "license": "MIT",
   "keywords": [
