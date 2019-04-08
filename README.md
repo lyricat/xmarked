@@ -5,6 +5,10 @@ XMarked is a fork of [marked.js](https://marked.js.org)
 ## Features
 
 - [ ] [Open Publishing Services (OPS)](https://docs.microsoft.com/en-us/contribute/how-to-write-use-markdown#ops-custom-markdown-extensions) extenstion (WIP)
+    - [x] Message Block/Note Block
+    - [ ] TOC
+    - [ ] Footnotes
+- [ ] LaTeX support
 - [ ] [Code-Knack](https://github.com/lyricat/code-knack) integration
 
 ## Demo
