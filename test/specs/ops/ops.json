@@ -1,0 +1,8 @@
+[
+  {
+    "section": "Message Block Note",
+    "html": "<div class='message-block is-info'>\n<p class='message-title'><span class='message-status'></span>Note</p>\n<p>This is a NOTE</p>\n</div>",
+    "markdown": "> [!NOTE]\n> This is a NOTE Message",
+    "example": 1900
+  }
+]
